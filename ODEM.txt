@@ -1,0 +1,52 @@
+ODEM
+ODEM stands for On Demand Education Marketplace. 
+This ICO was designed as a solution to the weaknesses that trouble the education sector 
+specifically access to quality higher learning. 
+The ODEM platform is a single, accessible and distributed network that
+allows students to freely interact with their professors and academic partners 
+in person or on-site both locally and internationally. 
+The ICO start date was on 17th February 2018 and is expected 
+to end on 19th March 2018 or when the maximum number of tokens to be sold has been achieved. 
+
+Technology Description
+ODEM will operate on the blockchain platform specifically on the Ethereum platform. It will make use of smart contracts and TrueBit. TrueBit will greatly reduce the number of redundant network node computations used in traditional Ethereum smart contracts. TrueBit will make secure computing cheap and affordable. 
+
+Team
+The ODEM comprises of an 18 core team members,
+an advisory board of 3 members and 3 advisory entities namely KMPG Switzerland, 
+SICOs and BlockScience. The team has an altogether experience in business 
+management, economic and business development and blockchain design. 
+
+Notable names in the team include:
+Richard Maaghul, CEO.
+J. Williams Bayrd, COO.
+Michael Zargham, Chief Systems Engineer.
+Amit Garg, Chief Technology Officer.
+
+A complete breakdown of all the team members and their roles can be found here: https://odem.io/#team 
+Token: ODEM
+Price: 1 ODEM=0.05 Euro     
+Accepted Currencies on the ODEM Platform: Ether
+
+Total Tokens: 396,969,697
+Tokens to be sold via Token Sale: 238, 200, 000
+Hard Cap on the Main Token Sale: 180,000,000
+
+Here’s a link to a video description of how the ICO functions: https://www.youtube.com/watch?v=B278U-V__gs
+
+Website: https://odem.io/
+YouTube Channel: ODEM.io Information
+Twitter Channel: @ODEM_IO
+GitHub Account: https://github.com/odemio/ico 
+
+Information regarding this ICO has been retrieved from the following link: https://odem.io/
+More information about this ICO can be found through this link: https://www.marketwatch.com/story/odemio-exceeds-soft-cap-and-raises-22-million-euros-in-pre-sale-2018-02-07
+
+
+
+
+
+
+
+
+
