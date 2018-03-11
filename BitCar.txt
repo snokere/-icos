@@ -1,0 +1,87 @@
+BitCar ICO 
+https://bitcar.io/ \
+BitCar provides a platform that allows anyone with cryptocurrencies to purchase an interest or P2P fractionally trade in exotic care. 
+Rare collectable Exotic Cars are limited to the very wealthy and hard to access. Historically these cars make up one of the best performing asset classes over the last decade. BitCar is the first platform in the world that will allow you to P2P trade fractions of exotic cars using your crypto. Owners can peg their crypto to these hard assets for protection during times of high crypto volatility. Users will have access to this historically outperforming asset class for the first time through BitCar. BitCar will then also seek to provide fractional ownership services to the very large automotive industry using this new decentralized blockchain technology.
+The tokens are ERC20 tokens built on the Ethereum blockchain. They can be used for a number of purposes within the BitCar ecosystem, including voting, transaction fees, car token payments, escrow, and usage of the BitCar vehicles.
+The BitCar ecosystem has two tokens. BITCAR are primary level tokens, while CAR are exotic asset tokens. CAR tokens are also ERC20 tokens on the Ethereum blockchain. While BITCAR tokens are designed to perform roles in the BitCar ecosystem, CAR tokens represent real, legal ownership of a luxury vehicle.
+Features:  
+Decentralized:
+BitCar will be completely decentralized once completed. It operates using Smart Contracts on the Ethereum network in order to provide a fully autonomous platform.  
+Trustless: 
+BitCar is fully transparent and architected in a way that it does not require a central party in order to operate.  
+Secure:
+By having its code vetted by the top Smart Contract specialists BitCar can provide the highest level of security.
+Exotic Cars:
+BitCar team of Agents will ensure that only top and Exotics that are likely to appreciate will make it onto the Bitcar platform.     
+
+TIME:
+Start Date:	31 January, 2018  3pm 
+End Date: 	20 April, 2018
+
+Token:       BITCAR
+Price          1 BITAR = 0.10 USD
+Bounty    		  Available
+Platform   		 Ethereum
+Accepted currencies	 ETH, LTC, BTC, Fiat 
+Minimum investment	 20 USD
+Soft cap 		 5,000,000 USD
+Hard cap 		 22000000 USD
+
+Token Distribution Information
+There is a total of 500,000,000 BITCAR tokens being created, with 75,000,000 sold during the Pre-ICO and 175,000,000 available during the Main ICO.
+BITCAR tokens purchased will be issued, with a delay, after the receipt of funds from the buyer. This delay is not expected to be later than 4 weeks after the ICO closes and is subject to applicable AML/KYC.
+
+Token Allocation:
+The 500,000,000 BITCAR tokens will be allocated as follows:
+
+250,000,000 tokens allocated to the ICO;
+60,000,000 tokens allocated for Platform Growth, Incentivisation, User Acquisition & Partnerships;
+55,000,000 Company Token Reserve: These tokens will be reserved for future use if needed;
+40,000,000 tokens allocated for the Bounty Campaign and Early Backers; and
+95,000,000 tokens allocated under escrow to Team, Founders, and Future Employees.
+
+Tranches of BITCAR tokens will be sold with bonus tokens, as follows: 
+Tranche Bonus	 	Bonus Tokens 		Allocation of Tokens 
+Tranche 1 			Bonus 15% 			20,000,000 BITCAR tokens 
+Tranche 2 			Bonus 10% 			30,000,000 BITCAR tokens Tranche 3 			Bonus 5% 			50,000,000 BITCAR tokens Tranche 4 			No Bonus 			75,000,000 BITCAR tokens
+
+Each tranche will be available until sold out, unless varied by the Company. The Company may choose to have breaks between Tranches. Should there be any unsold tokens, these will be escrowed for 5 years and then be added to the Company Token Reserve, or, may be burned by the Company at its discretion, but if, so prior to any BITCAR tokens being issued to buyers.
+Technology: BitCar is a blockchain technology company that seeks to disrupt ownership in the automotive industry globally, and initially in the sector of Exotics — rare and collectible hypercars, supercars, and top end classic cars. 
+Use of Funds & Roadmap:
+According to BitCar’s Token Paper, “The Funds shall be used for continuation of development of the project, Platform and general working capital.”
+
+The Roadmap details the company’s progress in regards to all of the team’s efforts across all Development, Business and Marketing teams to deploy the BitCar Platform:
+https://bitcar.io/data/BitCar%20Whitepaper.pdf 
+https://bitcar.io/data/BitCar%20Token%20Paper.pdf 
+
+Team:
+BitCar was established in Australia in 2015. Key members of the team include developers from Ledger Assets Pty Ltd, a blockchain commercialization company in Australia. Ledger Assets has previously launched a number of other blockchain companies, including in energy, medicine, and identity (they’re best known for launching Power Ledger, which made headlines in October for launching Australia’s first ICO while raising $34 million).
+
+	
+
+Daniel Woodroof –   	Executive
+Sheree Ip – Legal & Blockchain Development
+Dr. Gov Van Ek –  Co-founder
+Charles Kilborn –  International Engagement
+Julia Buchholz – Digital Advertising & Marketing Strategist 
+Nuno Martins – Co-founder & Chief Technology Officer
+Alasdair Penman – Software & Blockchain Engineer 
+John Bulich – Technical Advisor & Co-founder
+Jesica Sanchez – Branding Designer
+Peter Briggs – Advisor & International Relations
+Trent Wheeler – Project Development 
+
+Partners:
+Dadiani Syndicate  https://dadianisyndicate.co.uk/ 
+Aalphabit   https://www.alphabit.fund/ 
+Moon Assets  https://www.moonassets.io/ 
+DigitalX  https://www.digitalx.com/
+
+Links:
+MediaNews: https://bitcar.io/sale/media/ 
+YouTube: https://www.youtube.com/channel/UCedEr1a1Xx2XcXorz-1hteQ  
+Telegram: https://t.me/bitcar_io 
+Twitter:  https://twitter.com/bitcar_io 
+Facebook:  https://www.facebook.com/bitcar.io 
+LinkedIn: https://www.linkedin.com/company/bitcar.io/    
+Instagram  https://www.instagram.com/bitcar.io/   
