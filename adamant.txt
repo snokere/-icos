@@ -1,0 +1,109 @@
+Adamant ICO
+https://adamant.im/ 
+ ADAMANT is an anonymous messenger encrypted with Blockchain. For individuals it is a Blockchain messenger available from any device with anonymity and data protection, usability and integrated payment system. It is Anonymous, instant messenger with secure peer-to-peer transactions. ADAMANT Business is a corporate system for data and message transfers with ability to digitally-sign documents and an integrated payment system that allows a company to reduce its internal transactional costs.
+
+Date: 
+Start Date: 30 January 2018 12:00 UTC
+End Date: 30 March 2018   12:00 UTC
+
+Token:  ADAMANT (ADM)
+Price:	 1 ADM = 0.002-0.005 ETH.  There is no minimum investment 
+Accepted Currencies: ETH, BTC, LTC, BCH, DASH, DOGE, XMR, ETC, ZEC, and LSK
+Soft cap: 	500,000 USD
+Hard cap: 	30,000,000 USD
+
+Token Distribution
+Infrastructure support — 10%
+Development — 30%
+External security and code auditions (reviews) — 10%
+Users involvement — 50%
+
+Token Specification
+DPoS algorithm (Delegated Proof of Stake)
+Maximum tokens amount: 200 000 000 ADM
+Genesis-block: 98 000 000 ADM
+Block time: 5 seconds (17 280 blocks per day, about 6 307 200 blocks per year)
+Block size: variation (not limited)
+
+Technology:
+ADAMANT is based on robust blockchain technology with its being code open and public. Using blockchain technology it has a great advantage of almost complete anonymity. A message history is therefore not connected to a specific person.
+
+The System’s architecture ADAMANT is a fully decentralized system that is based on Delegated Proof-of-Stake Consensus (DPoS) algorithm. This choice was made in order to meet the following criteria: 
+● DPoS allows for any transaction to be reliably confirmed within the 5 second interval. This time is critical for fast messaging and payment execution; 
+● DPoS dramatically lowers the system maintenance cost — there is no need for vast computing powers and therefore — barbaric electricity waste, comparing to POW; 
+● Fixed transaction fees;
+● Dignified system scalability and reliability factors. 
+
+ADAMANT system consists of two types of nodes: 
+1. Full nodes that contain the entire blockchain database and which can participate in new blocks forging; 
+2. And light-clients which run full data encryption on their side before further transferring to the blockchain.
+
+However all blockchain operations are carried out by the full nodes, with which light-clients interconnect through the HTTPS protocol (End-to-End encryption), using a certain API to transfer all their data in JSON format.
+
+A full node is using the following basis:
+● OS Linux Server (Ubuntu). Installation on other platforms is also possible through the Docker application packages; 
+● Node.JS Application Server; 
+● PostgreSQL Server for storing the blockchain.
+
+Light clients do make use of the following technologies: 
+● Progressive Web App (PWA) — web application for the modern browsers;
+● HTML5, JS, CSS, Vue — program languages and frameworks for web; 
+● A full node utilization through the special API protocol.
+
+All of the network nodes do use Peer-to-Peer scheme over the HTTPS protocol for their interconnection 
+
+Features: 
+Messages are stored in the blockchain
+No access to the user’s address book
+No access to the user’s location information
+No user identifications – the app can be used completely anonymous
+All messages are encrypted on the sender’s device and decrypted on the recipient side
+The client app does never transfer a user’s Private Key
+All work is done locally on the user’s device
+No user Private Data is being transferred
+Message histories is not stored on a device and are directly loaded from the blockchain
+It is impossible to obtain the user’s IP-address
+Program code and blockchain are openly sourced
+Accounts cannot be closed, blocked or limited by anyone, including the developers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Roadmap, 2017-2018:
+
+
+
+Team: Below are then main team members out of the 20 members of the team:
+Pavel Evgenov – CEO 		http://vk.com/p.evgenov 
+Maxim Pikhtovnikov – Lead Designer    https://www.linkedin.com/in/pikhtovnikov/ 
+Alexey Lebedev – Lead Developer     lebedevau@gmail.com 
+Andrey Medvedev – Advisor https://www.facebook.com/andrey.zebir 
+Denis Sokolov – Advisor       https://www.facebook.com/denis.sokolov.9/ 
+Leonid Anisimov – Advisor       https://www.facebook.com/leonid.anisimov.16 
+Dmitriy Soloduhin – Lead Developer https://www.linkedin.com/in/dmitriy-soloduhin 
+
+Links:
+Bitcointalk: https://bitcointalk.org/index.php?topic=2626619 
+Facebook: https://www.facebook.com/adamant.im 
+Twitter: https://twitter.com/adamant_im 
+Telegram: https://t.me/adamant_im 
+ Github: https://github.com/adamant-im 
+Slack: https://adamant-im.slack.com/ 
+
+
+
+
+
+On the issue of Partners, it was not mentioned specifically so I don’t know if these are their partners. 
+
