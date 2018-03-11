@@ -4,6 +4,14 @@ BitCar provides a platform that allows anyone with cryptocurrencies to purchase 
 Rare collectable Exotic Cars are limited to the very wealthy and hard to access. Historically these cars make up one of the best performing asset classes over the last decade. BitCar is the first platform in the world that will allow you to P2P trade fractions of exotic cars using your crypto. Owners can peg their crypto to these hard assets for protection during times of high crypto volatility. Users will have access to this historically outperforming asset class for the first time through BitCar. BitCar will then also seek to provide fractional ownership services to the very large automotive industry using this new decentralized blockchain technology.
 The tokens are ERC20 tokens built on the Ethereum blockchain. They can be used for a number of purposes within the BitCar ecosystem, including voting, transaction fees, car token payments, escrow, and usage of the BitCar vehicles.
 The BitCar ecosystem has two tokens. BITCAR are primary level tokens, while CAR are exotic asset tokens. CAR tokens are also ERC20 tokens on the Ethereum blockchain. While BITCAR tokens are designed to perform roles in the BitCar ecosystem, CAR tokens represent real, legal ownership of a luxury vehicle.
+
+Tokenization of Exotic Car Asset:
+Rare collectables Exotic Care are limited to the very wealthy and hard to access. Through tokenization of assets on the blockchain, you can own fractions of an Exotic Car. 
+Samples of these Exotic Cars and more information about them can be found at the following links below:
+https://bitcar.io/data/BitCar%20Whitepaper.pdf  
+https://bitcar.io/sale/info/ 
+https://bitcar.io/sale/ 
+
 Features:  
 Decentralized:
 BitCar will be completely decentralized once completed. It operates using Smart Contracts on the Ethereum network in order to provide a fully autonomous platform.  
@@ -35,7 +43,7 @@ Token Allocation:
 The 500,000,000 BITCAR tokens will be allocated as follows:
 
 250,000,000 tokens allocated to the ICO;
-60,000,000 tokens allocated for Platform Growth, Incentivisation, User Acquisition & Partnerships;
+60,000,000 tokens allocated for Platform Growth, Incentive structure (for users), User Acquisition & Partnerships;
 55,000,000 Company Token Reserve: These tokens will be reserved for future use if needed;
 40,000,000 tokens allocated for the Bounty Campaign and Early Backers; and
 95,000,000 tokens allocated under escrow to Team, Founders, and Future Employees.
@@ -57,7 +65,7 @@ https://bitcar.io/data/BitCar%20Token%20Paper.pdf
 Team:
 BitCar was established in Australia in 2015. Key members of the team include developers from Ledger Assets Pty Ltd, a blockchain commercialization company in Australia. Ledger Assets has previously launched a number of other blockchain companies, including in energy, medicine, and identity (they’re best known for launching Power Ledger, which made headlines in October for launching Australia’s first ICO while raising $34 million).
 
-	
+Detailed profiles and social media links of all team members can be found at: https://bitcar.io/#team 	
 
 Daniel Woodroof –   	Executive
 Sheree Ip – Legal & Blockchain Development
